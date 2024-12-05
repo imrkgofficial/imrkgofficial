@@ -116,7 +116,7 @@ Beyond my full-time job, I consult for international clients, assisting in build
 
 ## 🛠️ Projects
 
-- **[Certificate Expiry Checker](#)**  
+- **[Certificate Expiry Checker](https://certificate-info.rkgoyal.com/)**  
   A tool for tracking SSL certificate expiration.
   
 - **[CSV to XLSX Converter](#)**  
