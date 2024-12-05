@@ -36,7 +36,7 @@ Beyond my full-time job, I consult for international clients, assisting in build
 ### Frontend Development
 <p float="left">
   <a href="https://angular.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="70" alt="Angular" />
+    <img src="https://angular.dev/assets/icons/apple-touch-icon.png" height="70" alt="Angular" />
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="70" alt="ReactJS" />
