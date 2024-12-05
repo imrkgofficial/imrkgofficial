@@ -48,7 +48,7 @@ Beyond my full-time job, I consult for international clients, assisting in build
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="70" alt="CSS" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" height="70" alt="TailwindCSS" />
+    <img src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3" height="70" alt="TailwindCSS" />
   </a>
 </p>
 
@@ -86,10 +86,10 @@ Beyond my full-time job, I consult for international clients, assisting in build
     <img src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/traefik.logo-dark.png" height="90" alt="Traefik" />
   </a>
   <a href="https://circleci.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4" height="70" alt="CircleCI" />
+    <img src="https://d2qm0z2kzhiwa.cloudfront.net/assets/android-chrome-512x512-b0a3962c7ec90ae60cb31f99a3fc37b5.png" height="70" alt="CircleCI" />
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="70" alt="GitHub" />
+    <img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="70" alt="GitHub" />
   </a>
 </p>
 
